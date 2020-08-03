@@ -1,7 +1,9 @@
 # Deep-Proxy-Checker
 Script that checks proxies and provides some additional info.
 Supports Multi-Threading when checking proxies from a file.
-
+Information incudes: WHOIS lookup, ptdr, ip type (ipv4 or ipv6), ip converted to int, static or dynamic proxy, response time, total retries.
+Output format:
+proxy : proxy_ip : proxy_ip_int : ip_type : works or not : retries : response_time : error_requests : static_or_dynamic : time_stamp
 ### Getting started:
 Clone the repo to your computer.
 ```
