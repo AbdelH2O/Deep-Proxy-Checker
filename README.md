@@ -24,7 +24,7 @@ checker.py <proxy> -t <timeout> -e <type>
 ```
 checker.py -f <file_name> -n <Number_of_threads> -t <timeout> -e <type>
 ```
-<type> is the proxy protocol, either http, socks4 or sock5, and you can use auto to let the script detect the protocol.
+type is the proxy protocol, either http, socks4 or sock5, and you can use auto to let the script detect the protocol.
  
 PS: This script was tested On python3.8
 # Contributing:
