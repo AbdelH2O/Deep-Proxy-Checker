@@ -39,7 +39,7 @@ PS: This script was tested On python3.8
     - 🍴 Fork this repo!
 
 - **Option 2**
-    - 👯 Clone this repo to your local machine using `https://github.com/joanaz/HireDot2.git`
+    - 👯 Clone this repo to your local machine using `https://github.com/AbdelH2O/Deep-Proxy-Checker.git`
 
 ### Step 2
 
