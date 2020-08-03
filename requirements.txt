@@ -1,0 +1,11 @@
+certifi
+chardet
+dnspython
+idna
+ipwhois
+mysql-connector-python
+protobuf
+PySocks
+requests
+six
+urllib3
